@@ -2,11 +2,11 @@
 title: "Canteliever Printer"
 author: "LandonBayer"
 description: "Designing and building a custom cantelievered mini 3D printer"
-created_at: "2025-05-25"
+created_at: "2025-07-20"
 ---
-Total time spent: 27 hours
+Total time spent:  hours
 
-## **5/25/2025 Log 1: Project Goals and initial BOM**
+## **7/20/2025 Log 1: Project Goals and initial BOM**
 
 To start this off, I decided upon a couple design goals for this project. The main reason I'm doing this is just to see if I can and because the [canteliever style](https://www.youtube.com/shorts/Ux0-xS0A1uI) is very interesting. Taking advantage of this style, here are my goals:
 
@@ -25,3 +25,13 @@ I began by putting together the BOM as best I could, finding some 3D models for 
 [rough]: Journal-Pictures/roughlayout3dp.png
 
 Time spent: 2.5 hours
+
+## **7/21/2025 Log 2: Refining CAD**
+
+Today I really tried to get the CAD into a better spot and figure out how everything will go together. I decided to expand the base to fit the full 200mm rails in between the Z axis ones sticking up, which should also make packaging for electronics easier later on. I'm still satisfied with the size, as it'll work out to be pretty much exactly 220x220, which is the size of the bed on my old 3D printer (which is significantly larger). I began adding holes and slots for the motor tensioning and lead screw attachment. It does pain me in a sense to use the leadscrews as structural members since I loose some travel, but it is much cheaper than using extrusion and may even be stronger. It still needs much refinement, but it's a start that I can pick up on tomorrow. Regardless, here's a picture of the working design:
+
+![lessroughlayout][lessrough]
+
+[lessrough]: Journal-Pictures/lessroughlayout3dp.png
+
+Time spent: 1.5 hours
