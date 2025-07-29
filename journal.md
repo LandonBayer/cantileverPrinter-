@@ -69,4 +69,4 @@ Still, I have much work to do which I will continue tonight and tomorrow in anti
 
 [updt]: Journal-Pictures/updated3dp.png
 
-Time spent: 2 hours
+Time spent: 6 hours
