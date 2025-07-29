@@ -35,3 +35,38 @@ Today I really tried to get the CAD into a better spot and figure out how everyt
 [lessrough]: Journal-Pictures/lessroughlayout3dp.png
 
 Time spent: 1.5 hours
+
+## **7/25/2025 Log 3: Polishing the Pieces**
+
+I made some big changes to the printer and put in quite a lot of work, so let's quickly run through them all:
+
+- Added the second XY rails to create the cantelievered concept
+- Made all XY rails 150mm instead of 200 to reduce the overall footprint and allow the largest base and top parts to be printed on a typical 220 by 220 build plate
+- Added mounting for the rails and slots for the motors (for belt tensioning later)
+- Continued adding parts to the BOM
+
+This was a good start, but there is still a ton of work to do in the coming days.
+
+![devep][devep]
+
+[devep]: Journal-Pictures/developing3dp.png
+
+Time spent: 2 hours
+
+## **7/29/2025 Log 4: Overhaul**
+
+Now I really started putting this project together and making some major changes and polishing pieces as we go. Once again, let's run through them all: 
+- Set the two motors to equal spacing from the linear rails so the X and Y axis are identical in mounting and belting
+- Created belt clamps for the XY axis, which I will also use on Z soon
+- Designed the mounting for the rails to the canteliever rails as well as the toolhead gantry mounting piece(s)
+- Added an E3D V6 hotend and began designing attachment parts for it
+- Added a 4010 blower fan for part cooling, mounting TBD
+- Finalized the overall system and layout
+
+Still, I have much work to do which I will continue tonight and tomorrow in anticipation of the deadline for highway. As stated above, some things I must do are add in the beltling for Z, the print bed, a BLTouch to the toolhead, the part cooling mounting, final electronics layout, etc. There's a lot, but a lot of it is relatively simple work as the major decisions have been made. I'll grind it out!
+
+![updt][updt]
+
+[updt]: Journal-Pictures/updated3dp.png
+
+Time spent: 2 hours
