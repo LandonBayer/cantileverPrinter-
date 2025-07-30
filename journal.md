@@ -51,7 +51,7 @@ This was a good start, but there is still a ton of work to do in the coming days
 
 [devep]: Journal-Pictures/developing3dp.png
 
-Time spent: 2 hours
+Time spent: 3 hours
 
 ## **7/29/2025 Log 4: Overhaul**
 
@@ -69,4 +69,24 @@ Still, I have much work to do which I will continue tonight and tomorrow in anti
 
 [updt]: Journal-Pictures/updated3dp.png
 
-Time spent: 6 hours
+Time spent: 7 hours
+
+## **7/29/2025 (again) Log 5: Continuing the grind**
+
+First off, another Hack Clubber posted a very similar printer to mine which seems to be a good resource for some parts of my printer that I'm still strugglign with. For example, I like his way of mounting the part cooling fan on the front of the hotend. I'll also have a similar BLTouch setup, but that is independent of me seeing his design. Through this work session, I nearly finished the printer, wrapping up all my loose ends (note: the time on the last log is the last few days, this time is today). Here we are:
+
+- Flipped the motors under the rails to make the top part printable
+- Added the Voron 0.2 bed and mounting to the Z linear rails
+- Added Z rail belting
+- Refined the hotend attachment and added a BLTouch probe
+- Mounted the extruder near the back of the printer
+- Sketched out electronics layout
+- Countless other changes and fixes I can't go through
+
+Here's what the near-final printer looks like:
+
+![nearf][nearf]
+
+[nearf]: Journal-Pictures/nearfinal3dp.png
+
+Time spent: 7 hours
