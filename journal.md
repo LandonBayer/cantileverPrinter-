@@ -4,7 +4,7 @@ author: "LandonBayer"
 description: "Designing and building a custom cantelievered mini 3D printer"
 created_at: "2025-07-20"
 ---
-Total time spent:  hours
+Total time spent: 23 hours
 
 ## **7/20/2025 Log 1: Project Goals and initial BOM**
 
