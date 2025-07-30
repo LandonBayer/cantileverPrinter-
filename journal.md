@@ -90,3 +90,16 @@ Here's what the near-final printer looks like:
 [nearf]: Journal-Pictures/nearfinal3dp.png
 
 Time spent: 7 hours
+
+## **7/30/2025 Log 6: Finishing Touches**
+
+To wrap up the project, I finished off some of the electronics at the bottom, which I am currently leaving open-face because it looks cool and gives the most airflow without any extra fans or similar. I may redesign this in the future to be enclosed if needed. I also did my (semi)final BOM updates to prepare for review, and color coded my printer.
+
+Here's a final (pre-review) screenshot:
+
+![f][f]
+
+[f]: Journal-Pictures/cantelieverfinal3dp.png
+
+Time spent: 2 hours
+
