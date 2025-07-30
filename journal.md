@@ -1,14 +1,14 @@
 ---
-title: "Canteliever Printer"
+title: "Cantilever Printer"
 author: "LandonBayer"
-description: "Designing and building a custom cantelievered mini 3D printer"
+description: "Designing and building a custom cantilevered mini 3D printer"
 created_at: "2025-07-20"
 ---
 Total time spent: 23 hours
 
 ## **7/20/2025 Log 1: Project Goals and initial BOM**
 
-To start this off, I decided upon a couple design goals for this project. The main reason I'm doing this is just to see if I can and because the [canteliever style](https://www.youtube.com/shorts/Ux0-xS0A1uI) is very interesting. Taking advantage of this style, here are my goals:
+To start this off, I decided upon a couple design goals for this project. The main reason I'm doing this is just to see if I can and because the [cantilever style](https://www.youtube.com/shorts/Ux0-xS0A1uI) is very interesting. Taking advantage of this style, here are my goals:
 
 - Small 120 x 120mm build volume to make the printer easy to fit in to any space
 - No extrusion, use the rails as the frame
@@ -40,7 +40,7 @@ Time spent: 1.5 hours
 
 I made some big changes to the printer and put in quite a lot of work, so let's quickly run through them all:
 
-- Added the second XY rails to create the cantelievered concept
+- Added the second XY rails to create the cantilevered concept
 - Made all XY rails 150mm instead of 200 to reduce the overall footprint and allow the largest base and top parts to be printed on a typical 220 by 220 build plate
 - Added mounting for the rails and slots for the motors (for belt tensioning later)
 - Continued adding parts to the BOM
@@ -58,7 +58,7 @@ Time spent: 3 hours
 Now I really started putting this project together and making some major changes and polishing pieces as we go. Once again, let's run through them all: 
 - Set the two motors to equal spacing from the linear rails so the X and Y axis are identical in mounting and belting
 - Created belt clamps for the XY axis, which I will also use on Z soon
-- Designed the mounting for the rails to the canteliever rails as well as the toolhead gantry mounting piece(s)
+- Designed the mounting for the rails to the cantilever rails as well as the toolhead gantry mounting piece(s)
 - Added an E3D V6 hotend and began designing attachment parts for it
 - Added a 4010 blower fan for part cooling, mounting TBD
 - Finalized the overall system and layout

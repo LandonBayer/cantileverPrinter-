@@ -1,12 +1,12 @@
-# Cant-Be-Possible - The CANTelievered 3D Printer
+# Cant-Be-Done - The cantilevered 3D Printer
 
-I have never designed a 3D printer before, so naturally when I randomly saw a [Youtube short](https://www.youtube.com/shorts/Ux0-xS0A1uI) portraying an experimental canteliever-style 3D printer, I knew I had to take a shot at it. This printer is absolutely tiny, with a tiny 120 by 120mm build plate and about 220 by 220 base external dimensions. I did this both as a fun challenge, to make it easier to fit in small spaces, and so even the large base and top components can be printed on a standard 220 by 220 printer by anyone. 
+I have never designed a 3D printer before, so naturally when I randomly saw a [Youtube short](https://www.youtube.com/shorts/Ux0-xS0A1uI) portraying an experimental cantilever-style 3D printer, I knew I had to take a shot at it. This printer is absolutely tiny, with a tiny 120 by 120mm build plate and about 220 by 220 base external dimensions. I did this both as a fun challenge, to make it easier to fit in small spaces, and so even the large base and top components can be printed on a standard 220 by 220 printer by anyone. 
 
 Features:
 - Small size, easy creation
 - NO extrusion, only linear rails and 3D prints to reduce cost
 - SKR Mini E3 V3 mainboard with Octoprint on a Raspberry Pi Zero 2 W
-- Cantelievered style makes for a cool viewable experience
+- cantilevered style makes for a cool viewable experience
 - Can (somewhat) easily fit in to corners
 - No external space required (like a bedslinger would)
 - Bowden Protoextruder to minimize cost but maximize performance
